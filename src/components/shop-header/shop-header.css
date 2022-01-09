@@ -1,0 +1,44 @@
+.shop-header {
+  border-bottom: 1px solid #e8b9b3;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+
+.link {
+  text-decoration: none;
+  /* color: transparent;    
+  background-clip: text; */
+  /* background-image: linear-gradient(to right, #e8b9b3,#da869b); */
+  color: #a8e4ff;
+  transition-duration: 0.5s;
+  
+  
+}
+
+.link:hover{
+  color: white; 
+}
+
+.logo {
+  font-size: 2.5rem;
+  padding-left: 1rem;
+  text-decoration: none;
+  
+}
+
+.shopping-cart {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  font-size: 1.3rem;
+  padding-right: 1rem;
+}
+
+.icon{
+  font-size: 1.3rem;
+  color: #e6b6c5;
+  margin-right: 5px;
+}

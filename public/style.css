@@ -1,0 +1,12 @@
+body{
+  background-image: url(image.jpg);
+  position: inherit;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Lobster', cursive;
+  background-attachment: fixed;
+ 
+}
+body::-webkit-scrollbar {
+    width: 0px;
+}
